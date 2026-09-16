@@ -8,6 +8,6 @@
 | :---: | :--- | :---: | :---: |
 | 01 | **SQL Injection (SQLi)** | [Khanh-jxrz/SQLi_PW](https://github.com/Khanh-jxrz/SQLi_PW) | 🟢 Completed |
 | 02 | **XML External Entity (XXE)** | [Khanh-jxrz/XXE_PW](https://github.com/Khanh-jxrz/XXE_PW) | 🟢 Completed |
-| 03 | **File Upload Vulnerabilities** | [Khanh-jxrz/FileUpload_PW](https://github.com/Khanh-jxrz/FileUpload_PW) | 🟡 In Progress |
+| 03 | **File Upload Vulnerabilities** | [Khanh-jxrz/FileUpload_PW](https://github.com/Khanh-jxrz/FileUpload_PW) | 🟢 Completed |
 | 04 | **Cross-Site Scripting (XSS)** | `Chưa tạo repo` | ⏳ Planned |
 
